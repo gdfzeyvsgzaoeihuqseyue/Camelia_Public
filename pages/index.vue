@@ -1,7 +1,7 @@
 <template>
   <div class="max-w-4xl mx-auto px-4 py-6">
     <div class="mb-6">
-      <h1 class="text-2xl font-bold text-gray-900 mb-2">MedStock</h1>
+      <h1 class="text-2xl font-bold text-gray-900 mb-2">CAMELIA</h1>
       <p class="text-gray-600">Trouvez vos médicaments disponibles</p>
     </div>
 
